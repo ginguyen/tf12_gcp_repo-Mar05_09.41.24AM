@@ -1,0 +1,7 @@
+template_type: TF
+
+terraform_version: 0.11
+
+tags:
+- pcs-config:tf12_gcp
+
