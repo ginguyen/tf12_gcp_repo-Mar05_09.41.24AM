@@ -2,6 +2,8 @@ template_type: TF
 
 terraform_version: 0.11
 
+alwaysRunFullScan: true
+
 tags:
 - pcs-config:tf12_gcp
 
